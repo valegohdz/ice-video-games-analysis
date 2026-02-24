@@ -1,0 +1,6 @@
+ice_env/
+data/
+*.csv
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
